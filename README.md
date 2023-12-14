@@ -6,6 +6,6 @@
 - 📫 LinkedIn: https://www.linkedin.com/in/iagohp/
 
 In progress :
-- Burgerjoin management web software (Flask): https://github.com/Impacteiros/sauce-software
+- Burgerjoin management web software (Flask): https://github.com/Impacteiros/sauce2
 
 Underconstruction!
