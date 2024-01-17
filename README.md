@@ -1,11 +1,13 @@
 # Welcome, I'm Iago H.
 
 - 👋 Hi, I’m Iago from São Paulo, Brazil.
-- 🌱 I’m currently learning Python and doing a intership as AWS Cloud Analyst
-- Flask: ✅ RestAPI: ✅
+- 🌱 Python Develolper and AWS Cloud Analyst
+- Flask: ✅, Django: ✅
 - 📫 LinkedIn: https://www.linkedin.com/in/iagohp/
 
-In progress :
+Projects :
 - Burgerjoin management web software (Flask): https://github.com/Impacteiros/sauce2
+
+Working in a game using Unity Engine (C#).
 
 Underconstruction!
